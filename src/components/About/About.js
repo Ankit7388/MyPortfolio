@@ -9,9 +9,9 @@ function About() {
       <p className="about_text1">
         <span className="highlighted_text">Hi,</span> my name is
       </p>
-      <p className="about_text2">Harshit Chopra</p>
+      <p className="about_text2">Ankit Kumar Jaiswal</p>
       <p className="about_text3">
-        I am an SDE at <span className="highlighted_text">somewhere</span>
+        I am a Web Developer.<span className="highlighted_text">somewhere</span>
       </p>
       <p className="about_description">
         Lorem Ipsum is simply dummy text of the printing and typesetting
